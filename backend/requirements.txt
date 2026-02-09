@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+motor
+beanie
+langgraph
+langchain
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic-settings
+email-validator
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+httpx
+pytest
